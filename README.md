@@ -24,6 +24,63 @@ easily understandable content and practical resources.
 2. FAQ SECTION
 3. Legal News Updates
 
+
+#################################FLOWCHART################################
++-------------------------+
+          |   Legal Awareness       |
+          |       Platform           |
+          +------------+------------+
+                       |
+                       |
+                       v
+         +-------------+-------------+
+         |     Home Page             |
+         |                           |
+         |    - Topics of Laws       |
+         |    - Legal Articles       |
+         |    - Legal Guides         |
+         |    - FAQ Section          |
+         |    - Legal News Updates   |
+         +-------------+-------------+
+                       |
+                       |
+                       v
+         +-------------+-------------+
+         |   Topics of Laws          |
+         |                           |
+         |  - Fundamental Rights     |
+         |  - Directive Principles   |
+         |  - Amendment Process      |
+         |  - Separation of Powers   |
+         |  - Emergency Provisions   |
+         |  - Constitutional Bodies  |
+         |  - Union and States       |
+         |  - Constitutional Amendments |
+         +-------------+-------------+
+                       |
+                       |
+                       v
+       +---------------------------+
+       |   Legal Articles & Guides |
+       |                           |
+       |  - Fundamental Rights:    |
+       |      Understand the fundamental rights guaranteed by the Indian Constitution, such as the right to equality, freedom of speech and expression, and right to life and personal liberty.
+       |  - Directive Principles: |
+       |      Learn about the directive principles that guide the state in making laws and policies for the welfare of the people.
+       |  - Amendment Process:     |
+       |      Explore the process of amending the Indian Constitution and the significance of various amendments.
+       |  - Separation of Powers:  |
+       |      Understand the division of powers between the legislature, executive, and judiciary as outlined in the Indian Constitution.
+       |  - Emergency Provisions:  |
+       |      Discover the provisions related to national emergency, state emergency, and financial emergency, and their implications.
+       |  - Constitutional Bodies: |
+       |      Learn about the key constitutional bodies such as the Election Commission, Supreme Court, and Comptroller and Auditor General of India.
+       |  - Union and States:      |
+       |      Understand the distribution of powers between the union and states, and the structure of government at both levels.
+       |  - Constitutional Amendments: |
+       |      Explore significant amendments to the Indian Constitution and their impact on the legal framework of the country.
+       +---------------------------+
+
 ### CODE
 
 
